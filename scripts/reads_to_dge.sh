@@ -13,7 +13,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 1000 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 60g \
@@ -24,7 +23,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 1000 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -39,7 +37,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 625 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 60g \
@@ -50,7 +47,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 625 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -65,7 +61,6 @@ DigitalExpression -m 120g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 800 \
 --MIN_NUM_READS_PER_CELL 2000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 # ZF30
@@ -78,7 +73,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 625 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 60g \
@@ -89,7 +83,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 625 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -104,7 +97,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 30g \
@@ -115,7 +107,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 30g \
@@ -126,7 +117,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 30g \
@@ -137,7 +127,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -152,7 +141,6 @@ DigitalExpression -m 120g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 # ZF60
@@ -165,7 +153,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 40g \
@@ -176,7 +163,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 40g \
@@ -187,7 +173,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1500 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -202,7 +187,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1400 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 40g \
@@ -213,7 +197,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1400 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 40g \
@@ -224,7 +207,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 600 \
 --MIN_NUM_READS_PER_CELL 1400 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -239,7 +221,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 40g \
@@ -250,7 +231,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 40g \
@@ -261,7 +241,6 @@ DigitalExpression -m 40g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -276,7 +255,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE & 
 
 DigitalExpression -m 30g \
@@ -287,7 +265,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 30g \
@@ -298,7 +275,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 30g \
@@ -309,7 +285,6 @@ DigitalExpression -m 30g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 wait
@@ -324,7 +299,6 @@ DigitalExpression -m 120g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 # ZF6S
@@ -337,7 +311,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE &
 
 DigitalExpression -m 60g \
@@ -348,7 +321,6 @@ DigitalExpression -m 60g \
 --READ_MQ -1 \
 --MIN_NUM_GENES_PER_CELL 500 \
 --MIN_NUM_READS_PER_CELL 1000 \
---USE_STRAND_INF false \
 --STRAND_STRATEGY SENSE
 
 echo "All finished"
